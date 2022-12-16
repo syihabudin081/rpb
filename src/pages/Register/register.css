@@ -13,7 +13,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: -webkit-linear-gradient(left, #000,  #2696E9);
+  
   font-family: "Poppins", sans-serif;
 }
 

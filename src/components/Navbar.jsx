@@ -9,7 +9,7 @@ export default function Navbar() {
       <div className="navigation">
         <div className="navigation-items">
           <Link to="/">Home</Link>
-          <a href="product.html">Product</a>
+          <Link to="/product">Product</Link>
           <a href="#2">Order</a>
           <a href="#3">About</a>
           <a href="#4">Account</a>

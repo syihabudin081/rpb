@@ -18,7 +18,7 @@ export default function Home() {
     const slides = document.querySelectorAll('.video-slide');
     const contents = document.querySelectorAll('.content');
 
-    const sliderNav = function (manual) {
+    const sliderNav = (manual) => {
       btns.forEach((btn) => {
         btn.classList.remove('active');
       });
